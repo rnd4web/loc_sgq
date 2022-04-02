@@ -111,7 +111,7 @@ gitcreds::gitcreds_set()
 ## TESTE DE ENVIO AO GIT
 ### Outro Parágrafo
 
-
+use_git()
 
 use_github() # Será usado toda vez que for criar um projeto
 
