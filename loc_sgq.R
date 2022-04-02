@@ -28,6 +28,7 @@ pacman::p_load(usethis, magrittr, pacman, rio, tidyverse, lubridate)
 # Load base package (usethis)--------------------------------------------------
 
 library (usethis)
+usethis::use_git_remote("origin", url = NULL, overwrite = FALSE)
 
 # Criar o CAMINHO ABSOLUTO
 
